@@ -1,4 +1,4 @@
-
+nltk
 scikit-learn
 joblib
 textacy
