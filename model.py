@@ -10,6 +10,8 @@ from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer, WordNetLemmatizer
 from sklearn.linear_model import SGDClassifier
 
+import nltk
+nltk.download('stopwords')
 # Inject custom CSS
 st.markdown(f"""
     <style>
