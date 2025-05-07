@@ -7,3 +7,4 @@ contractions==0.1.73
 emoji==2.14.1
 matplotlib
 seaborn
+wordcloud
