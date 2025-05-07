@@ -11,7 +11,7 @@ from nltk.stem import SnowballStemmer, WordNetLemmatizer
 from sklearn.linear_model import SGDClassifier
 
 import nltk
-nltk.download('stopwords')
+nltk.download('all')
 # Inject custom CSS
 st.markdown(f"""
     <style>
